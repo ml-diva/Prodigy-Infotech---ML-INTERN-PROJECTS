@@ -8,7 +8,7 @@ Implement a linear regression model to predict the prices of houses based on the
 
 Dataset : - https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data 
 
-TAASK 02 
+TASK 02 
 
 Create a K-means clustering algorithm to group customers of a retail store based on their purchase history.
 
